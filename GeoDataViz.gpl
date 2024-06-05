@@ -1,6 +1,8 @@
 GIMP Palette
 Name: GeoDataVisColumns: 4
 # converted from https://github.com/OrdnanceSurvey/GeoDataViz-Toolkit/tree/master/Colours
+ 255 255 255
+ 0   0   0
  255  31  91
    0 205 108
    0 154 222
